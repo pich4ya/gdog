@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
     This file is part of gdog
     Copyright (C) 2016 @maldevel
